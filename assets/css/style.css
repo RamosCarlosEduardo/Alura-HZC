@@ -244,6 +244,15 @@ main {
 		grid-template-columns: repeat(4, 1fr);
 		grid-gap: 32px;
 		grid-column: 2;
+		grid-template-areas:
+			"titulo-pagina titulo-pagina titulo-pagina titulo-pagina"
+			"destaque-video destaque-video destaque-video videos-recentes"
+			"videos-mais-vistos videos-mais-vistos videos-mais-vistos videos-mais-vistos"
+			"novas-artes destaque-produtos destaque-produtos destaque-produtos"
+			"produtos-recentes produtos-recentes produtos-recentes produtos-recentes"
+		;
+
+
 	}
 	.cabecalho {
 		background-color: var(--cabeçalho);
@@ -302,6 +311,9 @@ main {
 	.titulo-pagina {
 		grid-column: 1/5;
 	}
+	.cartao--destaque {
+		margin-bottom: 0;
+	}
 	.cartao--destaque--videos {
 		grid-column: 1/4;
 		grid-row: 2;
@@ -313,11 +325,11 @@ main {
 		display: none;
 	}
 	.cartao__img--desktop {
-		display: initial;
+		display: block;
 	}
 	.cartao__botao--destaque{
 		grid-column: 1;
-		padding: 8px;
+		padding: 16px 8px;
 		width: 153px;
 	}
 	.cartao-recentes {
@@ -325,9 +337,9 @@ main {
 		grid-template-columns: auto auto;
 		align-items: center;
 		grid-row-gap: 24px;
-		width: 256px;
 		padding: 16px;
 		box-sizing: border-box;
+		align-self: flex-start;
 	}
 
 	.cartao-recentes ul {
@@ -369,7 +381,7 @@ main {
 	grid-row: 4;
 	}
 	.secao {
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: repeat(4,1fr);
 		grid-column: 1/5;
 		grid-gap: 32px;
 	}
@@ -381,5 +393,27 @@ main {
 	}
 	.secao--produtos {
 		grid-row: 5;
+	}
+
+	.titulo-pagina {
+		grid-area: titulo-pagina;
+	}
+	.destaque-video {
+		grid-area: destaque-video;
+	}
+	.videos-recentes {
+		grid-area: videos-recentes;
+	}
+	.videos-mais-vistos {
+		grid-area: videos-mais-vistos;
+	}
+	.novas-artes {
+		grid-area: novas-artes;
+	}
+	.destaque-produtos {
+		grid-area: destaque-produtos;
+	}
+	.produtos-recentes{
+		grid-area: produtos-recentes;
 	}
 }
