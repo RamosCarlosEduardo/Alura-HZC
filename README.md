@@ -9,6 +9,8 @@
 
 Este projeto foi feito com intuito de aprender e praticar flexbox e grid layouts.
 
+Nota: Projeto não finalizado. Subpáginas ainda não desenvolvidas.
+
 | 🪧 Vitrine.Dev  |     |
 | -------------- | --- |
 | ✨ Nome        | **Alura HZC** |
@@ -20,6 +22,8 @@ Este projeto foi feito com intuito de aprender e praticar flexbox e grid layouts
 <h1 align="center" font-size="30px">Alura HZC <sup>:us:*</sup></h1>
 
 This project was made for practice and learning flexbox and grid layouts.
+
+Note: Project unfinished. Subpages not made yet.
 
 | 🪧 Vitrine.Dev  |     |
 | -------------- | --- |
