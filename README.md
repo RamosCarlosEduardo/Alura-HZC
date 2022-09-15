@@ -19,7 +19,7 @@ Nota: Projeto não finalizado. Subpáginas ainda não desenvolvidas.
 | 🔥 Desafio     | [**Protótipo no Figma**](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358) |
 
 
-<h1 align="center" font-size="30px">Alura HZC <sup>:us:*</sup></h1>
+<h1 align="center" font-size="30px">Alura HZC <sup>:us:</sup></h1>
 
 This project was made for practice and learning flexbox and grid layouts.
 
