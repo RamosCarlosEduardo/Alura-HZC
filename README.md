@@ -15,12 +15,12 @@ Este projeto foi feito com intuito de aprender e praticar flexbox e grid layouts
 
 Nota: Projeto não finalizado. Subpáginas ainda não desenvolvidas.
 
-| 🪧 Vitrine.Dev  |     |
+| :placard: Vitrine.Dev  |     |
 | -------------- | --- |
-| ✨ Nome        | **Alura HZC** |
-| 🏷️ Tecnologias | HTML, CSS e Javascript |
-| 🚀 URL         | [**Acesse o site**](https://ramoscarloseduardo.github.io/Alura-HZC/) |
-| 🔥 Desafio     | [**Protótipo no Figma**](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358) |
+| :sparkles: Nome        | **Alura HZC** |
+| :label: Tecnologias | HTML, CSS e Javascript |
+| :rocket: URL         | [**Acesse o site**](https://ramoscarloseduardo.github.io/Alura-HZC/) |
+| :fire: Desafio     | [**Protótipo no Figma**](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358) |
 
 
 <h1 align="center" font-size="30px">Alura HZC <sup>:us:</sup></h1>
