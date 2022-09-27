@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-![Alura HZC Banner](https://raw.githubusercontent.com/RamosCarlosEduardo/Alura-HZC/main/assets/img/readme-banner.png#vitrinedev)
+![](https://raw.githubusercontent.com/RamosCarlosEduardo/Alura-HZC/main/assets/img/readme-banner.png#vitrinedev)
 
 <h1 align="center" font-size="30px">Alura HZC <sup>:brazil:</sup></h1>
 
